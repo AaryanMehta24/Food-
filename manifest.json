@@ -1,0 +1,9 @@
+{
+    "name":"Food Ordering System",
+    "start_url":"/index.html",
+    "short_name":"Furniture",
+    "display":"standalone",
+    "background_color":"#FFE902",
+    "theme_color":"#FFE1C4",
+    "orientation": "portrait-primary"
+}
